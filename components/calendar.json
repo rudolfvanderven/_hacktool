@@ -1,7 +1,7 @@
 {
 	"calendar": [
-        
-        {
+
+        		{
 					"title": "All Day Event",
 					"start": "2016-08-01"
 				},
@@ -51,10 +51,11 @@
 					"start": "2016-09-13T07:00:00"
 				},
 				{
-					"title": "Click for Google",
+					"title": "TuiBOT intro & brainstorm + Poppr VR",
 					"url": "http://google.com/",
-					"start": "2016-09-28"
+					"start": "2016-11-05T08:00:00",
+					"end": "2016-11-04T08:00:00"
 				}
-        
+
     ]
 }
