@@ -1,2 +1,2 @@
 # _hacktool
-Its here where magic happens
+Here where magic happens
