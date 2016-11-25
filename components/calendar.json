@@ -2,10 +2,87 @@
 	"calendar": [
 
 		{
-			"title": "TuiBOT intro & brainstorm + Poppr VR",
-			"url": "http://cloudoki.com/",
+			"title": "BE - Tuize intro & brainstorm + Poppr VR",
+			"url": "http://hackfridays.com",
 			"start": "2016-11-04T08:00:00",
 			"end": "2016-11-04T08:00:00"
+		}
+		
+		{
+			"title": "NL - Tuize intro & brainstorm + Speech & VR",
+			"url": "http://hackfridays.com",
+			"start": "2016-11-04T08:00:00",
+			"end": "2016-11-18T08:00:00"
+		}
+		
+		{
+			"title": "BE - Tuize kickoff + API & Swagger",
+			"url": "http://hackfridays.com",
+			"start": "2016-11-25T08:00:00",
+			"end": "2016-11-25T08:00:00"
+		}
+		
+		{
+			"title": "NL - Tuize kickoff + Traffic",
+			"url": "http://hackfridays.com",
+			"start": "2016-12-09T08:00:00",
+			"end": "2016-12-09T08:00:00"
+		}
+		
+		{
+			"title": "BE - Pozyx",
+			"url": "http://hackfridays.com",
+			"start": "2016-12-16T08:00:00",
+			"end": "2016-12-16T08:00:00"
+		}
+		
+		{
+			"title": "NL - Traffic 2",
+			"url": "http://hackfridays.com",
+			"start": "2016-12-23T08:00:00",
+			"end": "2016-12-23T08:00:00"
+		}
+		
+		{
+			"title": "BE - API",
+			"url": "http://hackfridays.com",
+			"start": "2016-01-06T08:00:00",
+			"end": "2016-01-06T08:00:00"
+		}
+		
+		{
+			"title": "NL - Pozyx",
+			"url": "http://hackfridays.com",
+			"start": "2016-01-13T08:00:00",
+			"end": "2016-01-13T08:00:00"
+		}
+		
+		{
+			"title": "BE - Pozyx to API",
+			"url": "http://hackfridays.com",
+			"start": "2016-01-20T08:00:00",
+			"end": "2016-01-20T08:00:00"
+		}
+		
+		{
+			"title": "NL - Pozyx to API",
+			"url": "http://hackfridays.com",
+			"start": "2016-02-03T08:00:00",
+			"end": "2016-02-03T08:00:00"
+		}
+		
+		{
+			"title": "BE - Arduino robots + Location to API",
+			"url": "http://hackfridays.com",
+			"start": "2016-02-10T08:00:00",
+			"end": "2016-02-10T08:00:00"
+		}
+		
+		{
+			"title": "NL - Tuize prototype + big data analyzing",
+			"url": "http://hackfridays.com",
+			"start": "2016-02-24T08:00:00",
+			"end": "2016-02-24T08:00:00"
 		}
 
 	]
