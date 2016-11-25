@@ -2,10 +2,31 @@
 	"calendar": [
 
 		{
-			"title": "TuiBOT intro & brainstorm + Poppr VR",
-			"url": "http://cloudoki.com/",
+			"title": "BE - Tuize intro & brainstorm + Poppr VR",
+			"url": "http://hackfridays.com",
 			"start": "2016-11-04T08:00:00",
 			"end": "2016-11-04T08:00:00"
+		}
+		
+		{
+			"title": "NL - Tuize intro & brainstorm + Speech & VR",
+			"url": "http://hackfridays.com",
+			"start": "2016-11-04T08:00:00",
+			"end": "2016-11-18T08:00:00"
+		}
+		
+		{
+			"title": "BE - Tuize kickoff + API & Swagger",
+			"url": "http://hackfridays.com",
+			"start": "2016-11-25T08:00:00",
+			"end": "2016-11-25T08:00:00"
+		}
+		
+		{
+			"title": "NL - Tuize kickoff + Traffic",
+			"url": "http://hackfridays.com",
+			"start": "2016-12-09T08:00:00",
+			"end": "2016-12-09T08:00:00"
 		}
 
 	]
